@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PROYECTO FINAL FÍSICA", "PROYECTO FINAL FÍSICA.csproj", "{24A27D44-8053-493F-80EB-9C2E6B7D2A00}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FisioLaf", "..\FisioLaf\FisioLaf.vdproj", "{640D4828-DC00-487D-98F3-8B8706561056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A27D44-8053-493F-80EB-9C2E6B7D2A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A27D44-8053-493F-80EB-9C2E6B7D2A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A27D44-8053-493F-80EB-9C2E6B7D2A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A27D44-8053-493F-80EB-9C2E6B7D2A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640D4828-DC00-487D-98F3-8B8706561056}.Debug|Any CPU.ActiveCfg = Debug
+		{640D4828-DC00-487D-98F3-8B8706561056}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04A17F8-5EEB-472F-B544-D67831ABED52}
+	EndGlobalSection
+EndGlobal
